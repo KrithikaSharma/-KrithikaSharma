@@ -15,7 +15,7 @@
 * Kubernetes
 * Machine Learning - Deep Learning
 * Big Data - Hadoop
-* MandoDB
+* MongoDB
 * MySQL
 
 ## Find my projects on My LinkedIn:
