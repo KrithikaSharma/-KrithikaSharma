@@ -1,9 +1,6 @@
 ### Hi there, I'm Krithika Sharma 👋
-## a Technical Aspirant
+##  Technical Aspirant
 ### Connect with me:
-
-[<img align="left" alt="medium.com.com" width="22px" src="https://medium.com/@krithikasharma2129" />][website]
-[<img align="left" alt="linkedin.com | LinkedIn" width="22px" src="https://www.linkedin.com/in/sevda-krithika-sharma/" />][linkedin]
 
 <br />
 ## 📚 I'm familiar with these technologies...
