@@ -1,8 +1,6 @@
 ### Hi there, I'm Krithika Sharma 👋
 ##  Technical Aspirant
-### Connect with me:
 
-<br />
 ## 📚 I'm familiar with these technologies...
 * Ansible
 * Python
