@@ -1,3 +1,4 @@
+![banner](https://raw.githubusercontent.com/simrangupta234/simrangupta234/master/welcome.gif)
 ### Hi there, I'm Krithika Sharma 👋
 ##  Technical Aspirant
 
