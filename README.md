@@ -28,7 +28,7 @@
 <br>
 
 
-## Find my projects on My LinkedIn:
+## Find my projects on LinkedIn:
 * https://www.linkedin.com/in/sevda-krithika-sharma/
 
 ### 📕 Latest Blog Posts
