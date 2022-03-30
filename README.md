@@ -1,5 +1,16 @@
 
-### Hi there, I'm Krithika Sharma 👋
+### Hi there, I'm Krithika Sharma 👋 
+
+<a href="https://www.linkedin.com/in/sevda-krithika-sharma/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ </a> 
+<a href="mailto:krithikasharma2129@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
+<a href="https://medium.com/@krithikasharma2129">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+</a>
+<br>
 ##  Technical Aspirant
 
 ## 📚 I'm familiar with these technologies...🛠 
@@ -42,11 +53,4 @@
 
 ➡️ [more blog posts...](https://krithikasharma2129.medium.com/)
 
----
-## 📫 How to reach me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sevda-krithika-sharma/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://krithikasharma2129.medium.com/"><img src="https://img.icons8.com/color/96/000000/medium-logo.png" alt="medium"/></a>
-  <a href="mailto:krithikasharma2129@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-</p>
